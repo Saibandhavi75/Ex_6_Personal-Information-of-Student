@@ -25,8 +25,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to develop personal information for student
-Developed by: 
-RegisterNumber:  
+Developed by: Aruru Sai bandhavi
+RegisterNumber:  212221240006
 */
 ```
 ## MainActivity.java:
@@ -189,6 +189,6 @@ public class MainActivity extends AppCompatActivity {
 </manifest>
 ```
 ## Output:
-![ouput](?raw=true)
+![ouput](https://github.com/Saibandhavi75/Ex_6_Personal-Information-of-Student/blob/main/java%2060.PNG?raw=true)
 ## Result:
 Thus a Simple Android Application to create personal information from the end user and display the information of the student using Android Studio was developed and executed successfully.
